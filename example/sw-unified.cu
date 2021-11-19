@@ -26,6 +26,8 @@
  * Smith-Waterman algorithm
  * Purpose:      Local alignment of nucleotide or protein sequences
  * Authors:      Daniel Holanda, Hanoch Griner, Taynara Pinheiro
+ * License:      The original code is distriibuted under an MIT license
+ * Repo:         https://github.com/TheFighters/Smith-Waterman
  *********************************************************************************/
 
 #include <cstdlib>

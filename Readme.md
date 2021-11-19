@@ -79,7 +79,7 @@ XPlacer/Tracer was created by Peter Pirkelbauer, Pei-Hung Lin, Tristan Vanderbru
 
 XPLacer/Tracer is released under a BSD 3-clause license (see license.txt) for details. 
 
-The repository also contains code from the Rodinia benchmark suite, a Lawrence Berkeley Smith-Waterman implementation, and a version of LLNL`s Lulesh code.This software are released with their own license that is present in the respective directories. 
+The repository also contains code from the Rodinia benchmark suite and a version of LLNL`s Lulesh code. These software are released with their own license that is present in the respective directories. 
 
 
 ## Acknowledgement
