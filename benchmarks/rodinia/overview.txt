@@ -1,0 +1,7 @@
+backprop          optimizations possible
+cfd               <none identified>
+gaussian          optimizations possible
+lud               optimizations possible
+nn                <none identified>
+pathfinder        optimizations possible
+
