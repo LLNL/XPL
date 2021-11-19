@@ -1,4 +1,6 @@
-# XPlacer/Tracer 
+# XPL
+
+## XPlacer/Tracer
 
 XPlacer/Tracer is a dynamic analysis tool for heterogeneous code written in C/C++ (only a subset of C++ is currently supported) and CUDA. XPlacer/Tracer consists of a [ROSE-plugin](http://rosecompiler.org) to instrument CPU + GPU code and a runtime library that records accesses to dynamic memory and produces a summary information.
 
