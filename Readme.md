@@ -84,7 +84,7 @@ The repository also contains code from the Rodinia benchmark suite and a version
 
 ## Acknowledgement
 
-This work was performed under the auspices of the U.S.Department of Energy by Lawrence Livermore National Lab-oratory under Contract DE-AC52-07NA27344 and supported by LLNL-LDRD 18-ERD-006. LLNL-CODE-XXYYZZ.
+This work was performed under the auspices of the U.S.Department of Energy by Lawrence Livermore National Lab-oratory under Contract DE-AC52-07NA27344 and supported by LLNL-LDRD 18-ERD-006. LLNL-CODE-815126.
 
 
 
